@@ -1,0 +1,72 @@
+body{
+    margin: 0 ;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+
+}
+.MainTitle{
+    text-align: center;
+    text-decoration-color: rgb(42, 163, 163);
+    font-size: x-large;
+    background-color: beige;
+    color: black;
+    padding: 10px;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 500px;
+}
+.link{
+    text-align: center;
+     color: crimson;
+    font-family: 'Luckiest Guy', cursive;
+
+}
+.MainPage{
+    background-color: darkkhaki;
+    color:sienna;
+}
+
+.MainPagee{
+    background-color: antiquewhite;
+    color: firebrick;
+    margin-top:0px
+}
+
+.MainPagef{
+    color: darkorange;
+}
+.MainPages{
+    color: tomato;
+
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 50%;
+    margin: 20%;
+    height: 100px;
+
+  }
+  .formContent{
+    background: #7272cc;
+	width: 1000px;
+    color: rgb(51, 10, 10);
+	border-radius: 10px;
+	box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.25);
+	margin: 40px 0;
+	position: relative;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
+    background-color: #376eb5;
+    
+  }
+
+  #color{
+      background-color: rgb(114, 177, 114)
+  }
+
